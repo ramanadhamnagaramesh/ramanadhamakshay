@@ -1,0 +1,5 @@
+doubt:  install the rpm on particualr directory
+need to show the list of depencies of particualr rpm file
+maximum how many volumes possible if any limit is there for this?
+multiple mysql installations on same server
+for tomcat: max to max how much memory possible for tomat7 and 8 versions
